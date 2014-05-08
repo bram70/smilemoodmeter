@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SmileMoodMeter</string>
+	<string name="action_settings">switch camera</string>
+	<string name="vibration_settings">Vibration On/off</string>
+  <string name="exit">Exit</string>
+  <string name="text_str">Front Camera</string>
+</resources>
